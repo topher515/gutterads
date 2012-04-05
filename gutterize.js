@@ -47,7 +47,7 @@
   }
   
     
-    base = 'http://localhost/~cwilcox/gutterads/resources/'
+    base = 'topher515.github.com/gutterads/resources/'
     adsDb = {
       'mlb':{
         "left":base+"mlb12_left.jpg",
