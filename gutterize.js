@@ -4,7 +4,6 @@
 
     selectorsDb = {
         'gigaom.com':{
-            "content":"#init-grid-tech",
             "bg":"body",
       "displayAds":"#google_ads_div_GigaOM_ATF_right_300x250, .ads-widget-medium-rectangle, .ads-widget-medium-rectangle-2, .ads-widget-medium-rectangle-3, .ads-widget-medium-rectangle-4"
         },
